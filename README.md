@@ -7,7 +7,7 @@
 [![Discod Badge](https://img.shields.io/badge/-Discord-757575?style=flat-quare&labelColor=757575&logo=Discord&logoColor=white&link=link)](https://discord.com/channels/@me/480254631247609867) 
 
 
-              
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+        
+
 <div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="hüseyin-aydın-72761834b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/h%C3%BCseyin-ayd%C4%B1n-72761834b?trk=profile-badge">Hüseyin Aydın</a></div>
               
