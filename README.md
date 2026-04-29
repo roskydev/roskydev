@@ -3,7 +3,7 @@
 
 
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/roskytr/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/huseyinaydntr/) 
 [![Discod Badge](https://img.shields.io/badge/-Discord-757575?style=flat-quare&labelColor=757575&logo=Discord&logoColor=white&link=link)](https://discord.com/channels/@me/480254631247609867) 
         
 
